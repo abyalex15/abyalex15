@@ -1,7 +1,7 @@
 # 👨‍⚕️ Aby Alex | Doctor 💉 | AI Learner 🤖 | Ethical AI Governance
 
 Hi there! 👋  
-I'm **Dr. Aby Alex**, an MBBS graduate from Amala Institute of Medical Sciences and currently working at Apollo Tyres Industry. With a vision to bridge the gap between **clinical medicine** and **cutting-edge technology**, I'm on a journey to explore and build in the world of **Artificial Intelligence**, particularly in **healthcare** and **sports medicine**.
+I'm **Dr. Aby Alex**, an MBBS graduate from Amala Institute of Medical Sciences and currently working at Apollo Adlux occupational health wing. With a vision to bridge the gap between **clinical medicine** and **cutting-edge technology**, I'm on a journey to explore and build in the world of **Artificial Intelligence**, particularly in **healthcare** and **sports medicine**.
 
 ---
 
