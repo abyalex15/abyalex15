@@ -7,7 +7,7 @@ I'm **Dr. Aby Alex**, an MBBS graduate from Amala Institute of Medical Sciences 
 
 ### ⚡ What I'm Up To
 
-- 🏥 Working at the intersection of **occupational health** and **industrial safety**
+- 🏥 Working at the intersection of **healthcare innovation** and **AI ethics and safety**
 - 🤖 Learning Python, TensorFlow, and PyTorch for **AI in Healthcare**
 - 🧠 Exploring projects that blend **AI + Medicine** for impactful change
 - 🎥 Creating content on **AI for doctors** on YouTube (coming soon!)
